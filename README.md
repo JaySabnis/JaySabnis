@@ -106,10 +106,10 @@
 
 ###
 
-<br clear="both">
+<!-- Snake Game<br clear="both">
 
 <img src="https://raw.githubusercontent.com/JaySabnis/JaySabnis/output/snake.svg" alt="Snake animation" />
-
+--->
 ###
 
 <div align="left">
