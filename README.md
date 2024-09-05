@@ -27,7 +27,7 @@
 
 ###
 
-<h4 align="left">Data Science</h4>
+<h4 align="left">Data Science Tools</h4>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<h4 align="left">Framework</h4>
+<h4 align="left">Frameworks</h4>
 
 ###
 
