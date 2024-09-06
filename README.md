@@ -1,4 +1,5 @@
-<h2 align="left">👋 Hi, I'm Jay Sabnis, an aspiring Data Scientist from India, driven by a passion for leveraging data and technology to craft innovative solutions and solve real-world problems.</h2>
+<h2 align="left">🌌 Greetings, traveler! You've stumbled upon the digital lair of a space-time wanderer who codes by day and dreams in binary by night. Expect the unexpected here—aliens, algorithms, and maybe even a secret recipe for the best pizza in the multiverse. Stay curious, and remember, the answers are always 42. 🚀👾
+</h2>
 
 ###
 
