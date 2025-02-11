@@ -1,11 +1,5 @@
-<h2 align="left">🦄 Welcome to the land of code and chaos! I'm just a humble wizard, brewing spells in Python and conjuring digital worlds with a wave of my keyboard. Occasionally, I take breaks from summoning algorithms to chase dragons or invent new ways to procrastinate. Enter at your own risk, and don't feed the bugs! 🧙‍♂️✨
-</h2>
-
 ###
-
-<br clear="both">
-
-<div align="center">
+<div>
   <img src="github-metrics.svg" alt="stats graph" style="width: 100%; height: auto; max-width: 1000px;" />
 </div>
 
