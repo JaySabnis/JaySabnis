@@ -6,7 +6,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JaySabnis&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="github-metrics.svg" height="150" alt="stats graph"  />
 </div>
 
 ###
