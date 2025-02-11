@@ -1,6 +1,6 @@
 ###
 <div>
-  <img src="github-metrics.svg" alt="stats graph" style="width: 500px; height: auto;" />
+  <img src="github-metrics.svg" alt="stats graph"/>
 </div>
 
 ###
