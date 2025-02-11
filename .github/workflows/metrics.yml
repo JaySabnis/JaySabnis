@@ -19,6 +19,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
          # Plugins - Add multiple metrics
+          repositories_forks: yes
+          repositories_affiliations: owner, collaborator, organization_member
           plugin_languages: yes
           plugin_languages_sections: recently-used
           plugin_languages_recent_load: 400
@@ -26,8 +28,6 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: user
           plugin_reactions: yes
-          plugin_reactions_limit: 200
-          plugin_reactions_details: count
           plugin_habits: yes
           plugin_habits_from: 1000
           plugin_habits_days: 30
