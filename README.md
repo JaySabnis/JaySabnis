@@ -1,9 +1,9 @@
 ###
-<div>
-  <img src="github-metrics.svg" alt="stats graph"/>
-</div>
+
+ ![](github-metrics.svg)
 
 ###
+
 
 <h4 align="left">Languages</h4>
 
