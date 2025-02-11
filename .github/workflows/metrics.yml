@@ -19,15 +19,14 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
          # Plugins - Add multiple metrics
-          repositories_forks: yes
-          repositories_affiliations: owner, collaborator, organization_member
+          plugin_repositories_forks: yes
+          plugin_repositories_affiliations: ""
           plugin_languages: yes
           plugin_languages_sections: recently-used
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
           plugin_followup: yes
           plugin_followup_sections: user
-          plugin_reactions: yes
           plugin_habits: yes
           plugin_habits_from: 1000
           plugin_habits_days: 30
@@ -44,4 +43,4 @@ jobs:
               polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
               scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+          plugin_achievements_threshold: C
