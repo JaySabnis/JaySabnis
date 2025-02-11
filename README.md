@@ -6,7 +6,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="github-metrics.svg" alt="stats graph" style="max-width: 100%; height: auto;" />
+  <img src="github-metrics.svg" alt="stats graph" style="width: 100%; height: auto; max-width: 1000px;" />
 </div>
 
 ###
