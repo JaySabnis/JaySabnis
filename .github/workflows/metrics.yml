@@ -17,3 +17,23 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+
+         # Plugins - Add multiple metrics
+          plugin_languages: yes
+          plugin_languages_details: percentage, lines
+          plugin_followup: yes
+          plugin_followup_sections: user
+          plugin_reactions: yes
+          plugin_reactions_limit: 200
+          plugin_reactions_details: count
+          plugin_habits: yes
+          plugin_habits_from: 1000
+          plugin_habits_days: 30
+          plugin_lines: yes
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: classic
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_notable: yes
