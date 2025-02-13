@@ -22,11 +22,9 @@ jobs:
 
          # Plugins - Add multiple metrics
 
-          plugin_introduction: "Curious Mind | Exploring Systems, Solving Complex Challenges"
-          plugin_introduction_title: "Curious Mind | Exploring Systems, Solving Complex Challenges"
-        
+          
           plugin_repositories_forks: yes
-          plugin_repositories_affiliations: organization_member
+          plugin_repositories_affiliations: owner,organization_member,collaborator
         
           plugin_achievements: yes
           plugin_achievements_only: >-
