@@ -33,8 +33,8 @@ jobs:
           #plugin_achievements_display: compact
           #plugin_achievements_threshold: C
         
-          #plugin_isocalendar: yes
-          #plugin_isocalendar_duration: full-year
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
         
           plugin_languages: yes
           plugin_languages_sections: recently-used
