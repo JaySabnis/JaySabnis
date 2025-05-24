@@ -26,19 +26,19 @@ jobs:
           plugin_repositories_forks: yes
           plugin_repositories_affiliations: owner,organization_member,collaborator
         
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-              polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-              scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          #plugin_achievements: yes
+          #plugin_achievements_only: >-
+          #   polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+          #  scripter, packager, explorer, infographile, manager
+          #plugin_achievements_display: compact
+          #plugin_achievements_threshold: C
         
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          #plugin_isocalendar: yes
+          #plugin_isocalendar_duration: full-year
         
-          #plugin_languages: yes
-          #plugin_languages_sections: recently-used
-         #plugin_languages_recent_load: 1000  # Increased to capture more data
+          plugin_languages: yes
+          plugin_languages_sections: recently-used
+          #plugin_languages_recent_load: 1000  # Increased to capture more data
           #plugin_languages_recent_days: 14   
           #plugin_languages_ignored: HTML,CSS,JavaScript
           #plugin_languages_indepth: yes
